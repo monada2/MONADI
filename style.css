@@ -1,0 +1,35 @@
+.MORE {
+    background-color: rgb(124, 225, 243);
+}
+h1, h2 {
+ text-align: center;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+hr {
+    height: 2px;
+    background-color: blue;
+    border-color: blue;
+}
+img.any {
+    height: 45px;
+}
+img.farawla {
+    height: 70px;
+    margin-bottom: -25px;
+}
+img.pine {
+    height: 50px;
+}
+.CHARACTER {
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+p {
+    text-align: center;
+}
+body {
+    background-color: black;
+}
+audio {
+    height: 15px;
+}
